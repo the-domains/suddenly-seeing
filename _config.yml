@@ -1,0 +1,14 @@
+layout_spectrum: 0.9946237
+color:
+  saturation: 0.605377
+  lightness: 0.705455
+  brandStrength: 0.8116972
+  brandColors:
+    - '#4390C7'
+    - '#175C9A'
+    - '#020215'
+    - '#E0FFFF'
+    - '#B40216'
+  rhythmicContrast: 0.05224146
+typography_spectrum: 0.07885305
+name: Suddenly Seeing
